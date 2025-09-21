@@ -1,0 +1,20 @@
+# 编译生成的文件
+*.exe
+*.out
+*.app
+*.o
+*.a
+*.so
+*.dylib
+
+# 编辑器临时文件
+*.swp
+*~
+.#*
+
+# IDE相关文件
+.vscode/
+.idea/
+
+# 调试文件
+*.dSYM/
